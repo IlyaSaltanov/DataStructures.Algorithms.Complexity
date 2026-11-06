@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Working code for practices with all data structures/1.0.0": {
+        "runtime": {
+          "Working code for practices with all data structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Working code for practices with all data structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
