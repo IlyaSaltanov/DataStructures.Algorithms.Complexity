@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Working code for practices with all data structures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a05cecffc8c65dcaf3951bab9b3df821b7a7966")]
 [assembly: System.Reflection.AssemblyProductAttribute("Working code for practices with all data structures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Working code for practices with all data structures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

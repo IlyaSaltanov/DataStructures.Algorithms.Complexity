@@ -6,6 +6,7 @@
     <RootNamespace>Working_code_for_practices_with_all_data_structures</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
 </Project>
