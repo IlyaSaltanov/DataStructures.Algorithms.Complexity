@@ -1,0 +1,21 @@
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/BackPack
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/BackPack.deps.json
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/BackPack.runtimeconfig.json
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/BackPack.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/BackPack.pdb
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.AssemblyInfo.cs
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/refint/BackPack.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.pdb
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.genruntimeconfig.cache
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/ref/BackPack.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.csproj.AssemblyReference.cache
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/Working code for practices with all data structures.deps.json
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/Working code for practices with all data structures.runtimeconfig.json
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/Working code for practices with all data structures
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/Working code for practices with all data structures.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/bin/Debug/net10.0/Working code for practices with all data structures.pdb
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/09.11.2026/BackPack/obj/Debug/net10.0/BackPack.csproj.Up2Date
