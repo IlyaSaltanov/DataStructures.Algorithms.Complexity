@@ -1,9 +1,11 @@
 ﻿using System.ComponentModel.Design.Serialization;
 using System.IO.Pipelines;
 
+using static SortedFunctions.BasicFunctionsForHelp;
+
 namespace SortedFunctions;
 
-public class BubbleSort
+public static class BubbleSort
 {
     public static int[] Sort(int[] array)
     {
@@ -11,7 +13,7 @@ public class BubbleSort
 
         for (int i = 0; i < result.Length; i++)
         {
-            for (int y = 0; y < result.Length; y++)
+            for (int y = 0; y < result.Length - 1; y++)
             {
                 if (result[y] > result[y + 1])
                 {
@@ -21,12 +23,5 @@ public class BubbleSort
         }
 
         return result;
-    }
-    
-    public static void Swap(int[] array, int index1, int index2)
-    {
-        int temp = array[index1];
-        array[index1] = array[index2];
-        array[index2] = temp;
     }
 }

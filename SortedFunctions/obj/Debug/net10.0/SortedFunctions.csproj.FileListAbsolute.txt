@@ -1,0 +1,12 @@
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/bin/Debug/net10.0/SortedFunctions.deps.json
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/bin/Debug/net10.0/SortedFunctions.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/bin/Debug/net10.0/SortedFunctions.pdb
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.AssemblyInfo.cs
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.sourcelink.json
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/refint/SortedFunctions.dll
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/SortedFunctions.pdb
+/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/Debug/net10.0/ref/SortedFunctions.dll

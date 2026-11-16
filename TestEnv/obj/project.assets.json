@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "SortedFunctions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/SortedFunctions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SortedFunctions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SortedFunctions/1.0.0": {
+      "type": "project",
+      "path": "../SortedFunctions/SortedFunctions.csproj",
+      "msbuildProject": "../SortedFunctions/SortedFunctions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "SortedFunctions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/ilyasaltanov/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/SortedFunctions.csproj": {
+              "projectPath": "/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/SortedFunctions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
