@@ -8,7 +8,7 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/var/folders/n3/m9rvhfd50gl19w81qyftmtzm0000gn/T/cursor-sandbox-cache/e380aa8f6f631b1dd6135ed9cfbc888f/nuget": {}
+    "/Users/ilyasaltanov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,7 +16,7 @@
       "projectUniqueName": "/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/SortedFunctions.csproj",
       "projectName": "SortedFunctions",
       "projectPath": "/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/SortedFunctions.csproj",
-      "packagesPath": "/var/folders/n3/m9rvhfd50gl19w81qyftmtzm0000gn/T/cursor-sandbox-cache/e380aa8f6f631b1dd6135ed9cfbc888f/nuget",
+      "packagesPath": "/Users/ilyasaltanov/.nuget/packages/",
       "outputPath": "/Users/ilyasaltanov/UrFU courses/2 курс/Алгоритмы и анализ сложности/Working code for practices with all data structures/SortedFunctions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [

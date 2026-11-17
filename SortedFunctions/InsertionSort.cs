@@ -8,15 +8,22 @@ public class InsertionSort
     public static int[] Sort(int[] array)
     {
         var result = (int[])array.Clone();
-        for (int i = 0; i < array.Length - 1; i++)
+        for (int i = 1; i < array.Length; i++)
         {
-            for (int j = i + 1; j > 0; j--)
+            var temp = result[i];
+            var j = i;
+            for (; j > 0; j--)
             {
-                if (result[j] < result[j-1])
+                if (result[j - 1] > temp)
                 {
-                    Swap(result, j, j - 1);
+                    // Swap(result, j, j-1);
+                    result[j] = result[j-1];
+                }
+                else {
+                    break;
                 }
             }
+            result[j] = temp;
         }
 
         return result;
