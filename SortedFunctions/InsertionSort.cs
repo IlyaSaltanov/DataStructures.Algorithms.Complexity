@@ -12,16 +12,9 @@ public class InsertionSort
         {
             var temp = result[i];
             var j = i;
-            for (; j > 0; j--)
+            for (; j > 0 && result[j - 1] > temp; j--)
             {
-                if (result[j - 1] > temp)
-                {
-                    // Swap(result, j, j-1);
-                    result[j] = result[j-1];
-                }
-                else {
-                    break;
-                }
+                result[j] = result[j-1];
             }
             result[j] = temp;
         }

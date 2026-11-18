@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortedFunctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90746170dd70d532081ade3fd479b3fe6108cef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86426a9e843029d2c314fa5ae026b9be070bb3d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortedFunctions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortedFunctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
